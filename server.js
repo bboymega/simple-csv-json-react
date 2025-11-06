@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const PORT = 80;
-const csvFilePath = 'sample_csv.csv'; //Path to CSV file. Edit this line to refer to the path to your CSV file.
+const csvFilePath = 'sample_csv.csv'; //Edit this line to refer to the path to your CSV file.
 const fs = require('fs');
 const csv = require('csv-parser');
 
@@ -180,3 +180,4 @@ app.listen(PORT, () => {
     console.log('Started');
 
 });
+
