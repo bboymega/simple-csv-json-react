@@ -1,5 +1,5 @@
-# Simple Csv Json Operator in React
-Access and manipulate CSV data or databases via JSON-based API in React.
+# Simple Csv Json Operator in Node.js
+Access and manipulate CSV data or databases via JSON-based API in Node.js.
 
 # Supported Endpooints
 | Endpoint | Methods | Request | JSON Response |
